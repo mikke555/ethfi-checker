@@ -3,7 +3,7 @@ import time
 
 from client import Client, logger
 
-USE_PROXY = True  # proxy format: LOGIN:PASS@IP:PORT
+USE_PROXY = False  # proxy format: LOGIN:PASS@IP:PORT
 SLEEP_BETWEEN_WALLETS = [5, 15]
 
 
